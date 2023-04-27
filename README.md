@@ -22,6 +22,8 @@ Under each satellite there should be an information link that links back to the 
 
 Every satellite is ran through an array which also connects them to their specific satellite image.
 
+It is currently running off a REPL server but in order to allow constant accessibility it will need to run off an APU server which is an easy transition.
+https://replit.com/@AnthonyCucinell/CUBESAT-Directory
 
 
 
